@@ -1,0 +1,90 @@
+﻿Build started 5/3/2019 7:06:24 PM.
+     1>Project "C:\Users\User\documents\visual studio 2010\Projects\SPO\SPO\SPO.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SPO.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp grid.cpp main.cpp
+         grid.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(195): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(196): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(197): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(198): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(202): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(204): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(205): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(206): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(207): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(211): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(213): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(214): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(215): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(216): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(220): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(222): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(223): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(224): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(225): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(233): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(234): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(235): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(236): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(246): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(247): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(248): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(249): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(258): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(261): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(262): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(263): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(264): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(273): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(275): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(276): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(277): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\grid.cpp(278): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+         Compiling...
+         main.cpp
+         game.cpp
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(18): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(35): warning C4482: nonstandard extension used: enum 'PowerUpType' used in qualified name
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(44): warning C4482: nonstandard extension used: enum 'PowerUpType' used in qualified name
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(74): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(442): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(448): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(448): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(469): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(470): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(563): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(563): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(651): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(655): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\visual studio 2010\projects\spo\spo\game.cpp(659): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.exe" /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_mixer.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SPO.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.lib" /MACHINE:X86 Debug\SPO.res
+         Debug\bullet.obj
+         Debug\collider.obj
+         Debug\enemy.obj
+         Debug\game.obj
+         Debug\game_object.obj
+         Debug\game_renderer.obj
+         Debug\grid.obj
+         Debug\main.obj
+         Debug\player.obj
+         Debug\power_up.obj
+         LINK : C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.exe not found or not built by the last incremental link; performing full link
+         SPO.vcxproj -> C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\documents\visual studio 2010\Projects\SPO\Debug\SPO.exe;#1" /manifest Debug\SPO.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\SPO.unsuccessfulbuild".
+         Touching "Debug\SPO.lastbuildstate".
+     1>Done Building Project "C:\Users\User\documents\visual studio 2010\Projects\SPO\SPO\SPO.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.49

@@ -1,0 +1,12 @@
+Assets sources:
+
+Menu, Pause, and Game Over Background: Super Mario 3 Menu screen
+Carpet tiles: https://opengameart.org/content/castledungeon-tileset
+Popcorn icon for power up: http://pixelartmaker.com/art/943c1e3b1300c4d
+Soda icon for power up: http://pixelartmaker.com/art/fd9091f44454845
+Pillar icon: https://www.freepik.com/free-icon/greek-ionic-column_817958.htm
+Fipps font: http://pheist.net/fonts.php?id=51
+Background music: https://www.youtube.com/watch?v=Aw4I6sJ7F18
+Game Over music: https://www.youtube.com/watch?v=lNOvqVBlNC0
+Power up sound: https://freesound.org/people/Leszek_Szary/sounds/146723/
+Death sound: https://www.roblox.com/library/604650009/ROBLOX-Death-Sound
