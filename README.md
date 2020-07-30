@@ -1,7 +1,7 @@
 # SpoilerAlert
 You are at the cinema, but spoilers abound! Avoid spoilers by shooting them down with popcorn!
 
-This was a one week exercise about learning OpenGL and collision detection with massive amounts of objects.
+This was a one week exercise learning about SDL and collision detection with massive amounts of objects.
 
 To play Spoiler Alert:
 
